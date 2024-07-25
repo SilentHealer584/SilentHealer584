@@ -18,4 +18,4 @@ Asymetric encryption algorithm based on number theory concepts.
 
 
 📫 Let's Connect! Find me on:
-[![Youtube]](https://www.youtube.com/@manuel-pozzoni?sub_confirmation=1)
+[Youtube](https://www.youtube.com/@manuel-pozzoni?sub_confirmation=1)
