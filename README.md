@@ -16,6 +16,7 @@ File/Data Transfer Systems using socket and encryption.
 3. Online Grocery Delivery 🥦
 Asymetric encryption algorithm based on number theory concepts.
 
+More in my repositories...
 
 📫 Let's Connect! Find me on:
 [Youtube](https://www.youtube.com/@manuel-pozzoni?sub_confirmation=1)
