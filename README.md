@@ -10,10 +10,10 @@
 1. Market analysis and trading bot
 Advanced bot which analyses market data and takes real-time trading decisions. Been tested on old data, gave 2k+% profits. 
 
-2. Local Marketplace App 🛒
+2. File Transfer
 File/Data Transfer Systems using socket and encryption.
 
-3. Online Grocery Delivery 🥦
+3. RSA
 Asymetric encryption algorithm based on number theory concepts.
 
 More in my repositories...
